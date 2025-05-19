@@ -1,33 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\[03] C, C\u002B\u002B \uD504\uB85C\uADF8\uB798\uBC0D\\\uD14C\uD2B8\uB9AC\uC2A4 \uD504\uB85C\uC81D\uD2B8\\tetris_r4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\console.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:console.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\cell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:cell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\blocks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:blocks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\board.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:board.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\Desktop\\[03] C, C\u002B\u002B \uD504\uB85C\uADF8\uB798\uBC0D\\\uD14C\uD2B8\uB9AC\uC2A4 \uD504\uB85C\uC81D\uD2B8\\tetris_r4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,97 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\main.c",
-              "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\main.c",
-              "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-19T01:39:48.949Z",
-              "IsPinned": true
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "console.h",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\console.h",
-              "RelativeDocumentMoniker": "console.h",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\console.h",
-              "RelativeToolTip": "console.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-19T01:55:08.911Z",
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\[03] C, C\u002B\u002B \uD504\uB85C\uADF8\uB798\uBC0D\\\uD14C\uD2B8\uB9AC\uC2A4 \uD504\uB85C\uC81D\uD2B8\\tetris_r4\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\[03] C, C\u002B\u002B \uD504\uB85C\uADF8\uB798\uBC0D\\\uD14C\uD2B8\uB9AC\uC2A4 \uD504\uB85C\uC81D\uD2B8\\tetris_r4\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T01:39:48.949Z",
+              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "board.h",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\board.h",
-              "RelativeDocumentMoniker": "board.h",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\board.h",
-              "RelativeToolTip": "board.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-19T02:56:49.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "board.c",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\board.c",
-              "RelativeDocumentMoniker": "board.c",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\board.c",
-              "RelativeToolTip": "board.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-19T02:57:06.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "console.c",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\console.c",
-              "RelativeDocumentMoniker": "console.c",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\console.c",
-              "RelativeToolTip": "console.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-19T01:55:42.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "blocks.h",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\blocks.h",
-              "RelativeDocumentMoniker": "blocks.h",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\blocks.h",
-              "RelativeToolTip": "blocks.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-19T03:08:26.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "cell.h",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\cell.h",
-              "RelativeDocumentMoniker": "cell.h",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\_0519_hyundaiatoever\\tetris_r4\\cell.h",
-              "RelativeToolTip": "cell.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-19T03:12:46.26Z"
             }
           ]
         }
