@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\sound.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:sound.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\blocks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:blocks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\blocks.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:blocks.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\cell.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FF0A045-FA83-4BA5-B266-8FB28AB4C00C}|tetris_r4.vcxproj|solutionrelative:cell.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T01:39:48.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "blocks.h",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\blocks.h",
+              "RelativeDocumentMoniker": "blocks.h",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\blocks.h",
+              "RelativeToolTip": "blocks.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T05:59:27.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sound.c",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\sound.c",
+              "RelativeDocumentMoniker": "sound.c",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\sound.c",
+              "RelativeToolTip": "sound.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T05:52:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sound.h",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\sound.h",
+              "RelativeDocumentMoniker": "sound.h",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\sound.h",
+              "RelativeToolTip": "sound.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T05:53:03.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "blocks.c",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\blocks.c",
+              "RelativeDocumentMoniker": "blocks.c",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\blocks.c",
+              "RelativeToolTip": "blocks.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T05:59:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "board.h",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\board.h",
+              "RelativeDocumentMoniker": "board.h",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\board.h",
+              "RelativeToolTip": "board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T05:47:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "console.h",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\console.h",
+              "RelativeDocumentMoniker": "console.h",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\console.h",
+              "RelativeToolTip": "console.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T05:47:56.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cell.c",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\cell.c",
+              "RelativeDocumentMoniker": "cell.c",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\tetris_r4_notsound\\cell.c",
+              "RelativeToolTip": "cell.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-19T05:47:34.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

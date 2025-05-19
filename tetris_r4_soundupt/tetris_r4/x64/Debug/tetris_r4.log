@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\USER\source\repos\tetris_r4_notsound\main.c(185,16): warning C4133: '함수': 'cell_attributes_t [21][12]'과(와) 'int (*)[12]' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\tetris_r4_notsound\main.c(200,22): warning C4048: 배열 첨자가 다릅니다. 'cell_t (*)[12]'과(와) 'cell_t (*)[21][12]'
+  sound.c
+  코드를 생성하고 있습니다...
+  tetris_r4.vcxproj -> C:\Users\USER\source\repos\tetris_r4_notsound\x64\Debug\tetris_r4.exe
