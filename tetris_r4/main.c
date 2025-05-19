@@ -8,6 +8,9 @@
 #include "blocks.h"
 #include "board.h"
 #include "key_driver.h"
+#include "sound.h"
+
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #define DEFAULT_COLS 120
@@ -110,26 +113,8 @@ void block_draw(const block_t* blk, uint32_t x, uint32_t y) {
 
 bool running = true;
 
-#include <mmsystem.h>
 
-#pragma comment(lib, "winmm.lib") // winmm 라이브러리 링크
 
-void sound_init(const char file_name) {
-
-}
-
-void sound_play(const char* file_path) {
-    //const char* filename = "sample2.wav";
-    if (PlaySoundA(file_path, NULL, SND_ASYNC | SND_LOOP | SND_FILENAME)) {
-        printf("Playing sound: %s\n", file_path);
-    }
-    else {
-        printf("Error: Unable to play sound. Make sure the file exists and is a valid .wav file.\n");
-    }
-}
-void sound_stop(void) {
-    PlaySoundA(NULL, NULL, 0);
-}
 
 int main(void) {
     const char* file_path = "sample1.wav";
