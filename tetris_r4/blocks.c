@@ -1,5 +1,3 @@
-// 테트리스 블록 정의 및 초기화 관련
-
 #include <string.h>
 
 #include "blocks.h"

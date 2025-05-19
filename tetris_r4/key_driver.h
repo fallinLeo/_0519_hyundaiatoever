@@ -1,5 +1,3 @@
-// 키보드 입력을 처리하는 인터페이스 제공
-
 #ifndef __KEY_DRIVER_H__
 #define __KEY_DRIVER_H__
 

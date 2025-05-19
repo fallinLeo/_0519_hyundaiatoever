@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="blocks.c" />
-    <ClCompile Include="board.c" />
     <ClCompile Include="cell.c" />
     <ClCompile Include="console.c" />
     <ClCompile Include="key_driver.c" />
@@ -136,7 +135,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="blocks.h" />
-    <ClInclude Include="board.h" />
     <ClInclude Include="cell.h" />
     <ClInclude Include="console.h" />
     <ClInclude Include="key_code.h" />

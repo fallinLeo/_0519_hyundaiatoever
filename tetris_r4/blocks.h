@@ -1,5 +1,3 @@
-// 테트리스 블록 정의 및 초기화 관련
-
 #ifndef __BLOCKS_H__
 #define __BLOCKS_H__
 
@@ -12,13 +10,11 @@
 #define BLOCK_HEIGHT 4
 #define BLOCK_ROTATE_COUNT 4
 
-/*
 typedef enum _cell_attributes_t {
 	E, // 비었음 empty
 	W, // 벽, 없앨수 없음
 	N, // 없앨수 있는 일반적인 셀
 } cell_attributes_t;
-*/
 
 //"#define 블럭이화면오른쪽으로갈수있는최대값 100" 이 정의에서 블럭이화면오른쪽으로갈수있는최대값을 뭐라고 작명하면 좋을까?
 // 블럭이 오른쪽으로 이동할수 있는 최대값은 단순히 120/2-1이 아니다!

@@ -1,5 +1,3 @@
-// 키보드 입력을 처리하는 인터페이스 제공
-
 #include "key_driver.h"
 
 // _kbhit()= 어떤 버튼이라도 눌려졌나요? Were any buttons pressed?

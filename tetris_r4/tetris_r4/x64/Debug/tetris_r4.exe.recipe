@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\USER\Desktop\[03] C, C++ 프로그래밍\테트리스 프로젝트\tetris_r4\x64\Debug\tetris_r4.exe</FullPath>
+      <FullPath>C:\Users\USER\source\repos\tetris_r4\x64\Debug\tetris_r4.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

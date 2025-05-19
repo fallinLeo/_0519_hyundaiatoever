@@ -1,6 +1,4 @@
 // 콘솔 초기화 및 화면 제어 관련
-#ifndef CONSOLE_H
-#define CONSOLE_H
 
 #include <stdio.h>
 #include <stdint.h>
@@ -72,7 +70,6 @@ void console_set_color(windows_console_t* console, uint8_t fore_color, uint8_t b
 void console_set_default_color(windows_console_t* console);
 void console_set_fill_color(int background_color);
 void SetCurrentCursorPos(int x, int y);
+void console_clear(windows_console_t* console);
 point_t GetCurrentCursorPos(void);
 void setcolor(unsigned short text, unsigned short back);
-
-#endif
