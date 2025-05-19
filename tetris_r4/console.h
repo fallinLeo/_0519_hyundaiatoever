@@ -12,7 +12,6 @@
 #define RESIZE_COLS (DEFAULT_COLS-30) //=90
 #define RESIZE_ROWS 30
 
-
 // 관련된 변수형(구조체) 선언
 typedef enum _color_t {
     BLACK, //0
@@ -49,8 +48,27 @@ typedef struct _windows_console_t {
     cursor_info_t cursor_info;
 } windows_console_t;
 
+typedef struct _point_t {
+    uint32_t x;
+    uint32_t y;
+} point_t;
 
 // 관련된 함수 프로토타입 선언
 char* get_color_string(color_t color);
 void console_resize(const windows_console_t* console, uint32_t cols, uint32_t rows);
 void console_init(windows_console_t* console);
+bool get_cursor_visibility(void);
+void console_clear_region(uint32_t x, uint32_t y, uint32_t width, uint32_t height);
+void console_clear(const windows_console_t* console);
+void set_cursor_visible(windows_console_t* console, bool hide);
+void console_set_cursor(windows_console_t* console, uint32_t x, uint32_t y, bool value);
+void console_set_size(windows_console_t* console, uint32_t cols, uint32_t rows);
+void console_display_info(const windows_console_t* console);
+void console_set_fore_color(windows_console_t* console, uint8_t fore_color);
+void console_set_back_color(windows_console_t* console, uint8_t back_color);
+void console_set_color(windows_console_t* console, uint8_t fore_color, uint8_t back_color);
+void console_set_default_color(windows_console_t* console);
+void console_set_fill_color(int background_color);
+void SetCurrentCursorPos(int x, int y);
+point_t GetCurrentCursorPos(void);
+void setcolor(unsigned short text, unsigned short back);
